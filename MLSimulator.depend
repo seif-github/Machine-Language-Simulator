@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699793975 source:d:\fcai-cu\second year\oop\assignment #2\mlsimulator\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<fstream>
+
